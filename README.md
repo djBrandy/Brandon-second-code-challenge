@@ -1,30 +1,26 @@
-# second-code-challenge
-
+# BRANDON second code challenge
 ## AUTHOR
-Timon Brandon Dando ()
-
+[Brandon Dando](https://github.com/djBrandy)
 
 ## DESCRIPTION
-An output that swaps each character case of a sentence.
-a javascript function that accepts two numbers and writes down the numbers between them.
-Function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array
+ A function that accepts a string as input and swaps the case of each character.
+A function that accepts two numbers to generate an array between them.
+A function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array
 
 ## LIVE SITE
-
 https://djbrandy.github.io/second-code-challenge/
 
+## TECHNOLOGIES
+1. HTML
+2. JavaScript
 
-## Technologies used
-HTML
-CSS
-Github
-Javascript
+## CONTACT INFORMATION
+You can reach out to me through:
+- [Github](https://github.com/djBrandy)
 
-## Contact information
-email (dandobrandon0@gmail.com)
-
-### License
-The content of this site is licensed under the MIT license
+## LICENSE
+MIT license
 Copyright (c) 2024.
+
 
 
